@@ -1,0 +1,10 @@
+C:\Users\esma\Desktop\TaskTracker\bin\Debug\TaskTracker.exe.config
+C:\Users\esma\Desktop\TaskTracker\bin\Debug\TaskTracker.exe
+C:\Users\esma\Desktop\TaskTracker\bin\Debug\TaskTracker.pdb
+C:\Users\esma\Desktop\TaskTracker\obj\Debug\TaskTracker.csproj.AssemblyReference.cache
+C:\Users\esma\Desktop\TaskTracker\obj\Debug\TaskTracker.Form1.resources
+C:\Users\esma\Desktop\TaskTracker\obj\Debug\TaskTracker.Properties.Resources.resources
+C:\Users\esma\Desktop\TaskTracker\obj\Debug\TaskTracker.csproj.GenerateResource.cache
+C:\Users\esma\Desktop\TaskTracker\obj\Debug\TaskTracker.csproj.CoreCompileInputs.cache
+C:\Users\esma\Desktop\TaskTracker\obj\Debug\TaskTracker.exe
+C:\Users\esma\Desktop\TaskTracker\obj\Debug\TaskTracker.pdb
